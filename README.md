@@ -1,8 +1,11 @@
 # CPP102 WEEK 2 ACTIVITY
 
 NAME: Geluz, Daryl Lorenz M.
+
 SECTION: 1CPE-B
+
 COURSE: CPP102-Programming to Python, Git and Github
+
 ACTIVITY TITLE: Introduction to Python, GIt, and Github
 
 ## REFLECTION:
